@@ -1,13 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Dogs8
+﻿namespace Dogs8
 {
     enum Breeds
     {
-
+        Collie = 3,
+        Corgi = -9,
+        Dachshund = 7,
+        Pug = 0,
     }
 }
